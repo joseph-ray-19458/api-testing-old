@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Api Testing</string>
+    <string name="click_me">Click Me</string>
+    <string name="login_title">Login</string>
+    <string name="login_subtitle">Login now</string>
+    <string name="login_username_hint">user name</string>
+    <string name="login_password_hint">password</string>
+    <string name="login_forgot_password_text">forget Password</string>
+    <string name="login_create_account_text">login create account</string>
+    <string name="login_remember_me">remember me</string>
+    <string name="login_button_text">login</string>
+    <string name="sign_up_title">sign_up</string>
+    <string name="sign_up_subtitle">sign up now</string>
+    <string name="sign_up_name_hint">user name</string>
+    <string name="sign_up_email_hint">email id</string>
+    <string name="sign_up_password_hint">password</string>
+    <string name="sign_up_terms_and_conditions">Terms and Conditions</string>
+    <string name="sign_up_button_text">sign up</string>
+    <string name="sign_up_have_account_text">have an account ?</string>
+</resources>
